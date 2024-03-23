@@ -1,0 +1,8 @@
+# 项目排除路径
+/cart-service/target/
+/hm-api/target/
+/hm-common/target/
+/hm-service/target/
+/item-service/target/
+/pay-service/target/
+/trade-service/target/

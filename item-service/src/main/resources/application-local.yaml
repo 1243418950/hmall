@@ -1,0 +1,7 @@
+hm:
+  db:
+    host: 39.98.247.178 # 修改为你自己的虚拟机IP地址
+    un: root
+    pw: 123 # 修改为docker中的MySQL密码
+nacos:
+  sa: 39.98.247.178:8848
